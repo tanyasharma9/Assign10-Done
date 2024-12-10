@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ual-laptop/Documents/Cloud-Assgn10/mlruns/451106941153325523/131d7d45ca2844ac8f494d883890ac76/artifacts
+end_time: 1733706092260
+entry_point_name: ''
+experiment_id: '451106941153325523'
+lifecycle_stage: active
+run_id: 131d7d45ca2844ac8f494d883890ac76
+run_name: merciful-shrew-787
+run_uuid: 131d7d45ca2844ac8f494d883890ac76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733706080300
+status: 3
+tags: []
+user_id: ual-laptop

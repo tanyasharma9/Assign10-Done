@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277393661204874127/ae3f094fee694722bdb64b186f922488/artifacts
+end_time: 1733705057148
+entry_point_name: ''
+experiment_id: '277393661204874127'
+lifecycle_stage: active
+run_id: ae3f094fee694722bdb64b186f922488
+run_name: hilarious-owl-622
+run_uuid: ae3f094fee694722bdb64b186f922488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733705057030
+status: 4
+tags: []
+user_id: ual-laptop

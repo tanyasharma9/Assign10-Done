@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/957023745517660585/c2675e54c2ca4910b051d213e91f9400/artifacts
+end_time: 1733705643163
+entry_point_name: ''
+experiment_id: '957023745517660585'
+lifecycle_stage: active
+run_id: c2675e54c2ca4910b051d213e91f9400
+run_name: gaudy-bear-725
+run_uuid: c2675e54c2ca4910b051d213e91f9400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733705643028
+status: 3
+tags: []
+user_id: ual-laptop

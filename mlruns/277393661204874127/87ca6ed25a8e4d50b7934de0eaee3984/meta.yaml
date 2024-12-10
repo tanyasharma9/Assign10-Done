@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277393661204874127/87ca6ed25a8e4d50b7934de0eaee3984/artifacts
+end_time: 1733707796804
+entry_point_name: ''
+experiment_id: '277393661204874127'
+lifecycle_stage: active
+run_id: 87ca6ed25a8e4d50b7934de0eaee3984
+run_name: intrigued-hen-530
+run_uuid: 87ca6ed25a8e4d50b7934de0eaee3984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733707794592
+status: 4
+tags: []
+user_id: ual-laptop

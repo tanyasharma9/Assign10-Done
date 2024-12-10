@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733710448160
+current_stage: None
+description: ''
+last_updated_timestamp: 1733710448160
+name: basic_lr_iris_model
+run_id: b6e66801f3a4474c847e16b36a3b6cc0
+run_link: ''
+source: models:/basic_lr_iris_model/3
+status: READY
+status_message: null
+storage_location: file:///C:/Users/ual-laptop/Documents/Cloud-Assgn10/mlruns/451106941153325523/b6e66801f3a4474c847e16b36a3b6cc0/artifacts/iris_model
+user_id: null
+version: 4
